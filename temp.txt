@@ -1,0 +1,22 @@
+#3 Bitmap Message, 
+#6 Caesar Cipher, 
+#7 Caesar Hacker, 
+#9 Carrot in a Box, 
+#10 Cho-Han, 
+#11 Clickbait Headline Generator, 
+#12 Collatz Sequence, 
+#15 Deep Cave, 
+#16 Diamonds, 
+#20 Digital Stream,
+#24 Factor Finder, 
+#25 Fast Draw, 
+#31 Guess the Number, #32 Gullible,
+#35 Hex Grid, #40 Leetspeak, #42 Magic Fortune Ball, #46 Million Dice
+Roll Statistics Simulator, 
+#49 Multiplication Table, 
+#50 Ninety-Nine
+Bottles, #58 Rainbow, #65 Shining Carpet, #69 Snail Race, #71 Sound
+Mimic, #72 sPoNgEcAsE, #74 Text-To-Speech Talker
+bext: #5 Bouncing DVD Logo, #27 Fish Tank, #28 Flooder, #29
+Forest Fire Sim, #36 Hourglass, #39 Langton’s Ant, #47 Mondrian Art
+Generator, #58 Rainbow
